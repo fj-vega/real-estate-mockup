@@ -1,0 +1,22 @@
+//  Media query manager
+@mixin responsive($screen) {
+  @if $screen == sm {
+    @media (min-width: $sm) { @content; }
+  }
+  
+  @if $screen == md {
+    @media (min-width: $md) { @content; }
+  }
+
+  @if $screen == lg {
+    @media (min-width: $lg) { @content; }
+  }
+
+  @if $screen == xl {
+    @media (min-width: $xl) { @content; }
+  }
+
+  @if $screen == _2xl {
+    @media (min-width: $_2xl) { @content; }
+  }
+}

@@ -1,0 +1,24 @@
+.triangle-down {
+    width: 0; 
+    height: 0; 
+    border-style: solid;
+    border-width: 28px;
+
+    &--transparent {
+        border-left-color: #FFF;
+        border-right-color: #FFF;
+        border-bottom-color: #FFF;
+        border-top-color: transparent;
+    }
+}
+
+.comparative-card {
+    @include responsive(md) {
+        width: 100%;
+
+        &__body {
+            max-width: $xl;
+            margin: 0 auto;
+        }
+    }
+}

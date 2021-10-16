@@ -1,0 +1,16 @@
+html, 
+body {
+    scroll-behavior: smooth;
+}
+
+.mobile-bg-position {
+    @include responsive(md) {
+        background-position-x: center;
+        background-position-y: 85%;
+    }
+}
+
+#savings {
+    margin-top: 0;
+    padding-top: 6.25rem;
+}

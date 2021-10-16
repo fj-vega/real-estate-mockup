@@ -1,0 +1,11 @@
+.section-container {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+
+    &--sm  { width: $sm; }
+    &--md  { width: $md; }
+    &--lg  { width: $lg; }
+    &--xl  { width: $xl; }
+    &--2xl { width: $_2xl; }
+}

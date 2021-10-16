@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "price": 450000,
+        "specs": "4BD, 4BA, 3000sq ft",
+        "street": "The Gables, 25 St Columba's Terrace Street",
+        "city": "Newtownmountkennedy, Co. Wicklow"
+    },
+    {
+        "id": 2,
+        "price": 350000,
+        "specs": "4BD, 4BA, 3000sq ft",
+        "street": "Carriglee Ballyvergan East Youghal",
+        "city": "Youghal, County Cork"
+    },
+    {
+        "id": 3,
+        "price": 500000,
+        "specs": "4BD, 4BA, 3000sq ft",
+        "street": "Mahonstown Hse Kells, County Meath",
+        "city": "Kells, County Meath"
+    },
+    {
+        "id": 4,
+        "price": 275000,
+        "specs": "4BD, 4BA, 3000sq ft",
+        "street": "8 Keady Rd., Crossmaglen",
+        "city": "Newry, County Down"
+    },
+    {
+        "id": 5,
+        "price": 185000,
+        "specs": "4BD, 4BA, 3000sq ft",
+        "street": "Derrykearn",
+        "city": "Abbeyleix, County Laois"
+    },
+    {
+        "id": 6,
+        "price": 375000,
+        "specs": "4BD, 4BA, 3000sq ft",
+        "street": "7 Clonard Ave.",
+        "city": "Wexford, County Wexford"
+    }
+]
